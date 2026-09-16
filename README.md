@@ -124,18 +124,12 @@ Windows 실행 파일 위치: [`Releases/Windows`](Releases/Windows)
 ## 저장소 구조
 
 ```text
-Digital-VR/
-├─ README.md                    앱 소개·학습 가이드·실행 안내
-├─ docs/
-│  ├─ images/                   학습 워크플로우 이미지
-│  └─ screenshots/              단계별 화면 이미지
-└─ Releases/
-   ├─ README.md                 배포 파일 안내
-   └─ Windows/
-      ├─ ver1/DigitalVR2-Windows.zip
-      ├─ ver2/DigitalVR2-Windows.zip
-      ├─ ver3/DigitalVR2-Windows.zip
-      └─ ver4/DigitalVR2-Windows.zip
+Releases/
+└─ Windows/
+   ├─ ver1/DigitalVR2-Windows.zip
+   ├─ ver2/DigitalVR2-Windows.zip
+   ├─ ver3/DigitalVR2-Windows.zip
+   └─ ver4/DigitalVR2-Windows.zip
 ```
 
 ## 개선해야 할 점
